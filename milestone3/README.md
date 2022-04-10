@@ -1,18 +1,15 @@
 # Computer Science & Software Enginering
+Junior Projects – Milestone 3
+William Shoaff
+Spring Semester – 2022
 
-# Junior Projects – Milestone 3
-
-## William Shoaff
-
-## Spring Semester – 2022
-
-## 1 Assignment Goal
+### 1 Assignment Goal
 
 The goal of this assignment is to help you understand and analyze the main
 components of a senior project. This can help you later to understand, analyze,
 develop, and improve your own senior design project.
 
-## 2 Tasks for this assignment
+### 2 Tasks for this assignment
 
 When you enroll in senior projects you will be required to complete various
 tasks. Tasks for this assignment are:
@@ -57,7 +54,7 @@ Repeat as needed.
     6. Describe one or more projects you would like to pursue as a senior.
        Do you have teammates?
 
-## 3 Submitting your report
+### 3 Submitting your report
 
 Your report must be double-spaced, written using 12-point font, with 1-inch
 top, bottom, left & right margins, stored in PDF format, and submitted on the
