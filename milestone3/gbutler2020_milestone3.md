@@ -2,7 +2,7 @@
 id: "tnr-report"
 ---
 
-@import "/styles/tnr_report.less"
+@import "styles/tnr_report.less"
 
 <div style="text-align: center;">
 
